@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @natanhee
-- 👀 I’m interested in coding and leaning in life.
+- 👀 I’m interested in coding and learning in life.
 - 🌱 I’m currently learning HTML / CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by mail.
